@@ -1,4 +1,4 @@
-update=01/02/17 14:11:31
+update=02/03/17 19:00:15
 version=1
 last_client=kicad
 [cvpcb]
@@ -59,8 +59,6 @@ LibName29=valves
 LibName30=edge_sma
 LibName31=RFM_module
 LibName32=xbee
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=C:/Users/bomma/Documents/GitHub/My Design templates/Pcb_Schematic_Worksheet.kicad_wks
@@ -71,3 +69,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
